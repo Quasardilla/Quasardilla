@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: fill; background-size: fill; width: 100vw; opacity: 0.3; background: url('https://github.com/quasardilla/quasardilla/blob/main/comet.png');]{x0000}$}
